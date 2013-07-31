@@ -1,0 +1,37 @@
+
+C:\Users\pverest\git\nodejar-coffeescript\src\main\resources>node lib\coffee-scr
+ipt\command -h
+
+C:\Users\pverest\git\nodejar-coffeescript\src\main\resources>node bin\coffee
+coffee>
+undefined
+coffee>
+undefined
+coffee>
+undefined
+coffee>
+undefined
+coffee>
+(^C again to quit)
+coffee>
+
+
+C:\Users\pverest\git\nodejar-coffeescript\src\main\resources>node r.js
+See https://github.com/jrburke/r.js for usage.
+
+C:\Users\pverest\git\nodejar-coffeescript\src\main\resources>node r.js --help
+See https://github.com/jrburke/r.js for usage.
+
+C:\Users\pverest\git\nodejar-coffeescript\src\main\resources>java -classpath rhino-1.7R4.jar org.mozilla.javascript.tools.shell.Main r.js main.js
+See https://github.com/jrburke/r.js for usage.
+
+CC:\Users\pverest\git\nodejar-coffeescript\src\main\resources>java -classpath rhino-1.7R4.jar org.mozilla.javascript.tools.shell.Main r.js bin\coffee
+See https://github.com/jrburke/r.js for usage.
+
+C:\Users\pverest\git\nodejar-coffeescript\src\main\resources>
+java -classpath rhino-1.7R4.jar org.mozilla.javascript.tools.shell.Main r.js lib\coffee-script\command
+See https://github.com/jrburke/r.js for usage.
+
+C:\Users\pverest\git\nodejar-coffeescript\src\main\resources>
+java -classpath rhino-1.7R4.jar org.mozilla.javascript.tools.shell.Main r.js println.js
+js: uncaught JavaScript runtime exception: ReferenceError: "println" is not defined.

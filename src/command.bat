@@ -1,0 +1,1 @@
+node main\resources\lib\coffee-script\command.js test\resources\coffee.coffee
